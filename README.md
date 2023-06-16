@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 Ask me about **i complete my post graduate diploma in Advanced secured software development from CDAC Hyderabad**
+- 💬 About me **i complete my post graduate diploma in Advanced secured software development from CDAC Hyderabad**
 
 - 📫 How to reach me **nagutte0@gmail.com**
 
