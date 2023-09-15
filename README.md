@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navnath</h1>
-<h3 align="center">A passionate java developer</h3>
+<h3 align="center">A passionate Java Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 About me **i complete my post graduate diploma in Advanced secured software development from CDAC Hyderabad**
+- 💬 About me **Looking for opportunities as a fresher with diploma in Advanced secure software development from CDAC Hyderabad **
 
 - 📫 How to reach me **nagutte0@gmail.com**
 
