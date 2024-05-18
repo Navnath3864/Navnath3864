@@ -6,6 +6,7 @@
 - 💬 About me **Looking for opportunities as a fresher with diploma in Advanced Secure Software Development (PG-DASSD) from CDAC Hyderabad **
 
 - 📫 How to reach me **nagutte0@gmail.com**
+- another email id : **navnathgutte20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
